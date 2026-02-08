@@ -4,7 +4,7 @@
 This project implements an end-to-end AWS data engineering pipeline to ingest, transform, and publish analytics-ready YouTube trending datasets using a multi-layer data lake design (Raw → Cleansed → Conformed).
 
 ## Architecture
-![Architecture]()
+![Architecture](achitecture.png)
 
 ## Tech Stack
 - Amazon S3 (Raw/Cleansed layers)
